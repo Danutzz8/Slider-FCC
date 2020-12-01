@@ -1,3 +1,3 @@
 # Slider-FCC
 
-Small pictures slider
+Small pictures slider mainly to for Js skills
